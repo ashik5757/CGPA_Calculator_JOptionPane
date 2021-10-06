@@ -1,6 +1,6 @@
 # CGPA_Calculator_JOptionPane
 
-This is a CGPA calculator with java JOptionPane.
+This is a CGPA calculator with java JOptionPane. This application can calculate the CGPA in two ways. One is single semester CGPA and other one is predicted CGPA with current semester's expected result.
 
 ## Screenshot :
 
